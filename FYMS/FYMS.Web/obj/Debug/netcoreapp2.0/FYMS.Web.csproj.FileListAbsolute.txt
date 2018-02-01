@@ -1,0 +1,17 @@
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS\obj\Debug\netcoreapp2.0\FYMS.Web.csprojResolveAssemblyReference.cache
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS\obj\Debug\netcoreapp2.0\FYMS.Web.csproj.CoreCompileInputs.cache
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS\obj\Debug\netcoreapp2.0\FYMS.Web.AssemblyInfoInputs.cache
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS\obj\Debug\netcoreapp2.0\FYMS.Web.AssemblyInfo.cs
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS.Web\bin\Debug\netcoreapp2.0\FYMS.Web.deps.json
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS.Web\bin\Debug\netcoreapp2.0\FYMS.Web.runtimeconfig.json
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS.Web\bin\Debug\netcoreapp2.0\FYMS.Web.runtimeconfig.dev.json
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS.Web\bin\Debug\netcoreapp2.0\FYMS.Web.dll
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS.Web\bin\Debug\netcoreapp2.0\FYMS.Web.pdb
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS.Web\bin\Debug\netcoreapp2.0\FYMS.Data.dll
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS.Web\bin\Debug\netcoreapp2.0\FYMS.Data.pdb
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS.Web\obj\Debug\netcoreapp2.0\FYMS.Web.csprojResolveAssemblyReference.cache
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS.Web\obj\Debug\netcoreapp2.0\FYMS.Web.csproj.CoreCompileInputs.cache
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS.Web\obj\Debug\netcoreapp2.0\FYMS.Web.AssemblyInfoInputs.cache
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS.Web\obj\Debug\netcoreapp2.0\FYMS.Web.AssemblyInfo.cs
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS.Web\obj\Debug\netcoreapp2.0\FYMS.Web.dll
+D:\SourceCode\FYBS\FYMS\FYMS\FYMS.Web\obj\Debug\netcoreapp2.0\FYMS.Web.pdb
